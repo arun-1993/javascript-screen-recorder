@@ -1,0 +1,21 @@
+* {
+    margin: 5px;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+video {
+    border: 1px solid #ccc;
+    height: 90vh;
+    max-width: 100%;
+    display: none;
+}
